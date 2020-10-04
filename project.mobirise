@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "My Site",
-    "currentPage": "index.html",
+    "name": "LisaBeauty",
+    "currentPage": "contatti.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -145,7 +145,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "<br>Per continuare premere la spunta e accettare i <br><a href='terms.html'>Termini di Servizio</a> e <a href='policy.html'>la Politica della Privacy </a>."
     }
   },
   "pages": {
